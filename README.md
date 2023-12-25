@@ -11,7 +11,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <th><a href="https://chat.openai.com/">好友</a></th>
  </tr>
  <tr>
- <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">餐旅系</a></td>
+ <td><a href="https://hm.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
  <td><a href="https://www.youtube.com/watch?v=dK9rBfbUETw">看我</a></td>
  <td><a href="">巨量資料處理</a></td>
  <td>高 O 諺</td>
